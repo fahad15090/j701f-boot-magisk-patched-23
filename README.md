@@ -1,3 +1,5 @@
 # j701f-magisk-patched-23
 
-## firstly enable OEM unlock then flash this boot.img through odin or recovery
+##This is Stock one-ui bootimg don't try on Custom/GSI roms
+
+##Firstly enable OEM unlock then flash this boot.img through odin or recovery
