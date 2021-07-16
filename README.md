@@ -1,0 +1,1 @@
+# j701f-magisk-patched-23
